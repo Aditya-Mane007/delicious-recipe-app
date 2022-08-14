@@ -1,0 +1,3 @@
+yarn add framer-motion  - for animation
+yarn add styled-components - for css
+yarn add react-splide - for slide 
